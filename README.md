@@ -23,8 +23,8 @@ https://github.com/user-attachments/assets/4eaba85b-19d3-491c-b5df-446f11e7d2b1
 
 ```bash
 .
-│  communication.py     # 通讯模块
-│  detect.py            # 目标识别
+│  communication.py     # 通讯
+│  detect.py            # 识别
 │  main.py              # 主函数入口
 │
 ├─assets                # 资源文件
